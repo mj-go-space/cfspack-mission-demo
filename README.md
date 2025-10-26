@@ -4,6 +4,7 @@
 이 리포지토리는 `CCSDS Codec` 과 `FDIR FSM` 모듈을 통합하여
 소형 위성 미션을 시뮬레이션하는 구조를 보여줍니다.
 NASA, ESA, KARI의 소프트웨어 표준 구조를 참고해 설계되었으며,
+Mission Control 수준의 Fault-Response Flow 를 포함함.
 ---
 
 ## � Repository Structure
