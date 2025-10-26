@@ -7,7 +7,7 @@ NASA, ESA, KARI의 소프트웨어 표준 구조를 참고해 설계되었으며
 Mission Control 수준의 Fault-Response Flow 를 포함함.
 ---
 
-## � Repository Structure
+## Repository Structure
 
 docs/mission_spec.md # Mission design specification
 docs/assurance_case.md # Reliability and assurance documentation
